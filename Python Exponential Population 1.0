@@ -1,0 +1,19 @@
+import time
+import math
+
+Ini_Pop = int(input("Starting number of your population"))
+
+Pop_grow = float(input("Average growth rate"))
+
+Timeline = int(input("How many years to monitor the population?"))
+
+Pop_grow /= 100
+
+t = 0
+
+for Timeline in range(0, Timeline):
+    time.sleep(1.75)
+    while t <= Timeline:
+        t += 1
+    population = Ini_Pop * (math.exp(1) ** (Pop_grow * t))
+    print("Current Year is ",t, "with the total population of", format(population, ".1f"))
