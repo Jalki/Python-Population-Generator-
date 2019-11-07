@@ -6,6 +6,4 @@ Initial 1.0 Version brought the concept to life with exponentially increase popu
 
 2.0 brings Death Rate and Land Area functionality along with python's Mathplotlib to accurately plot the points for the user. This will also use calculus to actively so the net gain of the population (Derivatives!).
 
-3.0 is final version that allows the player to connect to a google spreadsheet to record your stats or save into a json file. This will also come with an interative GUI.
 
-A discord bot using these functionality or more may come in the future! Stay tuned!
