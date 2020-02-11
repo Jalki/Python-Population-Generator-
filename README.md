@@ -6,4 +6,4 @@ Initial 1.0 Version brought the concept to life with exponentially increase popu
 
 2.0 brings Death Rate and Land Area functionality along with python's Mathplotlib to accurately plot the points for the user. This will also use calculus to actively so the net gain of the population (Derivatives!).
 
-
+Current 3.0 main feature is now you can have one or more civilization. Addition goals would add a GUI input and more interactivity between the civilization(s)
